@@ -1,7 +1,14 @@
 '''
 Created on Jun 20, 2014
-Stream RGB from Carmine/Kinect Device.
-author: carlos torres <carlitos408@gmail.com>
+Stream RGB from Carmine/Kinect device
+
+Requires: 
+    OpenNI1.54+
+    PyOpenNI
+    Python 2.7.3 + 
+    OpenCV 2.4.5 +
+    Numpy
+@author: carlos torres <carlitos408@gmail.com>
 '''
 import cv2
 import cv2.cv as cv
